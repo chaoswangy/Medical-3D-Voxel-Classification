@@ -22,7 +22,7 @@ Medical-3D-Voxel-Classification
 ------
 准备好所有文件代码以及模型后，修改路径，运行程序[test](https://github.com/chaoswangy/Medical-3D-Voxel-Classification/blob/master/test.ipynb)
 即可输出`Submission.csv`文件（即用于kaggle提交的），注意：该文件默认储存在`adress2`下（即存储train_val.csv的地址）<br>
-如果要修改储存地址，可将test中第8个小模块中第13行中的'adress2'改为你想要输出的地址
+如果要修改储存地址，可将test中第8个小模块中第13行中的`adress2`改为你想要输出的地址
 
 ------
 另外，训练集和测试集数据以及训练集的二分类结果和自己预测的测试集的二分类结果不在上传。
